@@ -4,14 +4,12 @@
     <modelVersion>4.0.0</modelVersion>
     <groupId>io.github.luidmidev</groupId>
     <artifactId>spring-web-converters</artifactId>
-    <version>0.0.1-SNAPSHOT</version>
+    <version>0.0.1</version>
     <name>spring-web-converters</name>
-    
-    
+
     <description>
         spring-web-converters
     </description>
-
 
     <url>https://github.com/luidmidev/spring-web-converters.git</url>
 
@@ -40,6 +38,7 @@
     <properties>
         <java.version>21</java.version>
         <spring.version>3.3.5</spring.version>
+        <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
     </properties>
 
     <dependencies>
